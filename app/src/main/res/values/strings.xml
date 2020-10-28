@@ -1,0 +1,20 @@
+<resources>
+
+        <string name="app_name">udacity-book-listing-app</string>
+        <string name="app_title">Book List</string>
+        <string name="search_hint">Enter Book Title</string>
+        <string name="search_button_caption">Search</string>
+        <string name="book_title"><![CDATA[<book_title>]]></string>
+        <string name="list_price"><![CDATA[<list_price>]]></string>
+        <string name="retail_price"><![CDATA[<retail_price>]]></string>
+        <string name="no_books_found">No Books found</string>
+        <string name="no_internet_connection">No Internet Connection</string>
+        <string name="author_name"><![CDATA[<author_name>]]></string>
+        <string name="settings_menu_item">Settings</string>
+        <string name="settings_max_book_results_label">Maximum Book Results</string>
+        <string name="settings_max_book_results_key" translatable="false">max_results</string>
+        <string name="settings_max_book_results_default" translatable="false">10</string>
+        <string name="settings_title">Book List Settings</string>
+
+
+</resources>
